@@ -1,0 +1,40 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "nexotiers:modes/nelismp.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue701"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "nexotiers:modes/vanilla.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue702"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "nexotiers:modes/triathlon.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue703"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "nexotiers:modes/sword.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue704"
+      ]
+    }
+  ]
+}
